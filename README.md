@@ -1,15 +1,15 @@
 1. Can you implement the sing() method for the bird? 
 
     a. How did you unit test it? 
-		* Provided unit test calss "SolutionTest.java" unde test folder
+    
+	* Provided unit test calss "SolutionTest.java" unde test folder
     b. How did you optimize the code for maintainability? 
-		* Created saperated class files
+	* Created saperated class files
 
 2. Now, we have 2 special kinds of birds: the Duck and the Chicken... Can you
 implement them to make their own special sound?
-
-	* completed
-    
+   * completed
+   
 3. Now how would you model a rooster?
     
    * Completed
@@ -53,7 +53,9 @@ If you still have time left, please consider the following:
 rooster as a PoC for demonstrating this. For example, this is how the Rooster sounds
 differently depending on language. Please add the rooster sound in your native
 tongue. 
-	Implemented
+
+   * Implemented
 
 2. Can you design a RESTful API for querying these animals?
-	Implemented with one api
+   
+   * Implemented with one api
